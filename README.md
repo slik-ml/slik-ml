@@ -12,8 +12,8 @@ Slik-wrangler has several tools that make it easy to load data of any format, cl
 
 This library is in very active development, so it’s not recommended for production use.
 
-- 📖 [Documentation](https://slik-ml.github.io/slik_python_package/html/index.html)
-- 🐞 [Issue Tracker](https://github.com/slik-ml/slik_python_package/issues) - Report bugs or suggest new features
+- 📖 [Documentation](https://slik-ml.github.io/slik-ml/html/index.html)
+- 🐞 [Issue Tracker](https://github.com/slik-ml/slik-ml/issues) - Report bugs or suggest new features
 
 
 ## Contribution
